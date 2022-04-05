@@ -1,7 +1,16 @@
 ---
-title: "Mis expectativas"
-date: 2022-02-21T18:16:21-06:00
+title: "La Cultura de un Desarrollador de software"
+date: 2022-04-05T12:10:00-07:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-Usa este post para anotar tus expectativas de la misión.
+¡Hola!
+
+Para mi la cultura de un desarrollador de software se basa en:
+-Respeto
+-Responsabilidad
+-Honestidad
+-Comunicación constante
+-Trabajo en equipo
+
+estos puntos son importantes para mi
