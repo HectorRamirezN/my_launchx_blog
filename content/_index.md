@@ -8,10 +8,10 @@ Hola ✌️  soy el explorer Hector Ramirez Navarro y este es mi blog personal d
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
-- ser un master en Git y Github 💪
-- Aprender todo lo que se pueda sobre el backend
-- Apreder a diseñar apis y base de datos
-- Integrar mis conocimiendo de front-end con el backend
-- Tener un buen portafolio para integrarme al mundo laboral
+  - Ser un master en Git y Github 💪
+  - Aprender todo lo que se pueda sobre el backend
+  - Apreder a diseñar apis y base de datos
+  - Integrar mis conocimiendo de front-end con el backend
+  - Tener un buen portafolio para integrarme al mundo laboral
 
 🚀
