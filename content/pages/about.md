@@ -7,15 +7,11 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, soy Hector Ramirez tengo 32 años
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Vivo en Sinaloa Mexico, egresado de la carrea de lic en Sistemas Computacionales.
+> Actualmente trabajo de forma independiente doy mantenimiento a computadoras y celulares.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Quiero aprovechar al maximo este curso de launchX para ser un futuro
+desarrollador web, estoy muy entusiasmado y listo para aprender.
 
