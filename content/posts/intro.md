@@ -6,10 +6,10 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ¡Hola!
 
 Para mi la cultura de un desarrollador de software se basa en:
--Respeto
--Responsabilidad
--Honestidad
--Comunicación constante
--Trabajo en equipo
+- Respeto
+- Responsabilidad
+- Honestidad
+- Comunicación constante
+- Trabajo en equipo
 
 estos puntos son importantes para mi
